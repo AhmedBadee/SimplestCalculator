@@ -1,9 +1,10 @@
 # SimplestCalculator
 
 The app is a simple implementation of REST and SOAP APIs.
-Technologies used:
 
-Application Server: Glassfish 5.0
+# Technologies used:
+
+Application Server: Glassfish
 
 Database: MySQL
 
